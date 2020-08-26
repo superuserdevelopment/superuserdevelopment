@@ -7,11 +7,10 @@
 <li> 💬 Ask me about anything
 <li> 📫 How to reach me: <br>
 <ul>
-  <li>[LinkedIn](https://www.linkedin.com/in/arya-samarth/https://www.linkedin.com/in/arya-samarth/)  
-    <li>[Instagram @_notary.a](https://www.instagram.com/_notary.a/)  
+  <li> <a href="https://www.linkedin.com/in/arya-samarth/https://www.linkedin.com/in/arya-samarth/">LinkedIn</a></li> 
+  <li> <a href="https://www.instagram.com/_notary.a/">Instagram</a> </li>
 </ul>
   </li>
 <li> 😄 Pronouns: He/His
 <li> ⚡ Fun fact: Give me a task and a deadline, only things I need to learn something overnight
-
 <img src="https://github-readme-stats.vercel.app/api?username=superuserdevelopment&&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=151515">
