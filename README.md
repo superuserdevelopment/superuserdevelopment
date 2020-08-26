@@ -7,7 +7,7 @@
 <li> 💬 Ask me about anything
 <li> 📫 How to reach me: <br>
 <ul>
-  <li> <a href="https://www.linkedin.com/in/arya-samarth/https://www.linkedin.com/in/arya-samarth/">LinkedIn</a></li> 
+  <li> <a href="https://www.linkedin.com/in/arya-samarth">LinkedIn</a></li> 
   <li> <a href="https://www.instagram.com/_notary.a/">Instagram</a> </li>
 </ul>
   </li>
